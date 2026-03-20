@@ -1,7 +1,3 @@
-Dưới đây là bản dịch tiếng Việt:
-
----
-
 # Phân bố Nhân viên (Employee-Distribution)
 
 Chào mừng đến với dự án **Employee-Distribution**! Repository này chứa các insight và trực quan hóa dữ liệu được khai thác từ một bộ dữ liệu HR lớn kéo dài từ năm 2000 đến 2020, với hơn 22.000 dòng dữ liệu.
